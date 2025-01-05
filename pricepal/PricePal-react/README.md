@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pricepal.git
+   https://github.com/Xolelwa34/PricePal.git
 Navigate to the project directory:
 
 bash
