@@ -1,0 +1,247 @@
+/* src/App.css */
+
+.app-container {
+    min-height: 100vh;
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 10px;
+}
+
+.input-field {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.product-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.product-card {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.store {
+    color: gray;
+}
+
+.price {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.description {
+    margin-top: 10px;
+    color: #555;
+}
+
+.view-product-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.view-product-link:hover {
+    text-decoration: underline;
+}
+
+.no-products-message {
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.product-card:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.hero {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .hero-title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .hero-subtitle {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    background-color: #ffcc00;
+    color: #333;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .cta-button:hover {
+    background-color: #e6b800;
+  }
+  
+  /* Features Section */
+  .features {
+    background-color: #f8f8f8;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .features-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .feature-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* How It Works Section */
+  .how-it-works {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .how-it-works h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .how-it-works ol {
+    list-style: decimal inside;
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+
+
+
+  /* About Page Styles */
+.about-page {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .about-hero {
+    background-color: #007bff;
+    color: white;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+  }
+  
+  .about-hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .mission, .story, .benefits {
+    margin: 20px 0;
+  }
+  
+  .mission h2, .story h2, .benefits h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .benefits ul {
+    list-style: disc;
+    padding-left: 20px;
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }

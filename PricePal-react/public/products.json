@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Milk",
+    "store": "Shoprite",
+    "price": 14.99,
+    "url": "https://www.shoprite.co.za/product/milk",
+    "description": "1L Full Cream Milk"
+  },
+  {
+    "id": 2,
+    "name": "Milk",
+    "store": "Pick n Pay",
+    "price": 15.50,
+    "url": "https://www.picknpay.co.za/product/milk",
+    "description": "1L Full Cream Milk"
+  },
+  {
+    "id": 3,
+    "name": "Bread",
+    "store": "Woolworths",
+    "price": 10.99,
+    "url": "https://www.woolworths.co.za/product/bread",
+    "description": "Whole Wheat Bread"
+  },
+  {
+    "id": 4,
+    "name": "Bread",
+    "store": "Checkers",
+    "price": 11.49,
+    "url": "https://www.checkers.co.za/product/bread",
+    "description": "Whole Wheat Bread"
+  },
+  {
+    "id": 5,
+    "name": "Butter",
+    "store": "Shoprite",
+    "price": 23.99,
+    "url": "https://www.shoprite.co.za/product/butter",
+    "description": "500g Butter"
+  },
+  {
+    "id": 6,
+    "name": "Butter",
+    "store": "Pick n Pay",
+    "price": 24.49,
+    "url": "https://www.picknpay.co.za/product/butter",
+    "description": "500g Butter"
+  },
+  {
+    "id": 7,
+    "name": "Cheese",
+    "store": "Woolworths",
+    "price": 35.99,
+    "url": "https://www.woolworths.co.za/product/cheese",
+    "description": "200g Cheddar Cheese"
+  },
+  {
+    "id": 8,
+    "name": "Cheese",
+    "store": "Pick n Pay",
+    "price": 37.50,
+    "url": "https://www.picknpay.co.za/product/cheese",
+    "description": "200g Cheddar Cheese"
+  },
+  {
+    "id": 9,
+    "name": "Yogurt",
+    "store": "Shoprite",
+    "price": 19.99,
+    "url": "https://www.shoprite.co.za/product/yogurt",
+    "description": "1L Plain Yogurt"
+  },
+  {
+    "id": 9,
+    "name": "Yogurt",
+    "store": "Wollworths",
+    "price": 23.99,
+    "url": "https://www.shoprite.co.za/product/yogurt",
+    "description": "1L Plain Yogurt"
+  },
+  {
+    "id": 10,
+    "name": "Yogurt",
+    "store": "Checkers",
+    "price": 20.49,
+    "url": "https://www.checkers.co.za/product/yogurt",
+    "description": "1L Plain Yogurt"
+  },
+  {
+    "id": 11,
+    "name": "Orange Juice",
+    "store": "Woolworths",
+    "price": 30.99,
+    "url": "https://www.woolworths.co.za/product/orange-juice",
+    "description": "1L Fresh Orange Juice"
+  },
+  {
+    "id": 12,
+    "name": "Orange Juice",
+    "store": "Pick n Pay",
+    "price": 31.49,
+    "url": "https://www.picknpay.co.za/product/orange-juice",
+    "description": "1L Fresh Orange Juice"
+  }
+]
+
